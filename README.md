@@ -18,7 +18,7 @@ Clona este repositorio en tu máquina local
 
 ``` git clone https://github.com/usuario/repo.git```
 
-Abre el archivo mqtt_esp32_raspberry.ino en Arduino IDE.
+Abre el archivo mqtt_raspberry_esp32_prueba.ino en Arduino IDE.
 
 Configurar los parámetros de conexión a la red Wi-Fi y al servidor MQTT en el archivo mqtt_esp32_raspberry.ino:
 
