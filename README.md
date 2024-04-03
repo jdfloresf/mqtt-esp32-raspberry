@@ -14,7 +14,7 @@ Antes de ejecutar este programa, asegúrate de tener instalado lo siguiente:
 + Node-RED en la Raspberry Pi: [Node-RED](https://nodered.org/)
 
 ## Configuración
-
+Clona este repositorio en tu máquina local
 ``` git clone https://github.com/usuario/repo.git```
 
 Abre el archivo mqtt_esp32_raspberry.ino en Arduino IDE.
