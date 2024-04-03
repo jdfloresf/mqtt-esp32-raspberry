@@ -8,10 +8,10 @@ El objetivo de este proyecto es permitir la transferencia de mensajes entre un E
 Antes de ejecutar este programa, asegúrate de tener instalado lo siguiente:
 
 + Arduino IDE o Plataforma de desarrollo ESP32
-+ Biblioteca PubSubClient para Arduino: PubSubClient
-+ Mosquitto MQTT Broker en la Raspberry Pi: Mosquitto
-+ Node.js y npm en la Raspberry Pi: Node.js
-+ Node-RED en la Raspberry Pi: Node-RED:
++ Biblioteca PubSubClient para Arduino: [PubSubClient](https://github.com/knolleary/pubsubclient)
++ Mosquitto MQTT Broker en la Raspberry Pi: [Mosquitto](https://mosquitto.org/)
++ Node.js y npm en la Raspberry Pi: [Node.js](https://nodejs.org/en)
++ Node-RED en la Raspberry Pi: [Node-RED](https://nodered.org/)
 
 ## Configuración
 
