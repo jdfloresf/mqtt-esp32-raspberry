@@ -4,6 +4,11 @@ Este repositorio contiene un programa que establece una comunicación bidireccio
 ## Descripción del proyecto
 El objetivo de este proyecto es permitir la transferencia de mensajes entre un ESP32 y una Raspberry Pi a través de una red local utilizando MQTT como protocolo de comunicación. El ESP32 actuará como un cliente MQTT que envía datos a la Raspberry Pi, que actúa como el servidor MQTT. Además, se ha creado una interfaz de usuario utilizando Node-RED para visualizar y controlar la comunicación de manera intuitiva.
 
+Más información en:
+
++ [ESP32 - Raspberry Pi 4 (Protocolo MQTT - Internet of things IOT)](https://www.youtube.com/watch?v=Q2HL8rwZ20A&t=667s)
++ [How to setup MQTT for Raspberry Pi and ESP32 for IOT and Robotics projects](https://www.youtube.com/watch?v=ebsXSCKsHeQ)
+
 ## Requisitos previos
 Antes de ejecutar este programa, asegúrate de tener instalado lo siguiente:
 
